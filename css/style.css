@@ -1,0 +1,131 @@
+body{
+  font-family:Arial, Tahoma;
+  font-size:14px;
+}
+.languages{
+  text-align:center;
+  margin-bottom: 20px;
+}
+.lang{
+  display:inline-block;
+  background: #eee;
+  border: 1px solid #ccc;
+  padding: 10px;
+  color: #555;
+  text-decoration: none;
+}
+.login_form{
+  width: 248px;
+  margin: auto;
+  border: 1px solid #ccc;
+  background: #eee;
+  padding: 10px;
+}
+.user_data{
+  width: 318px;
+  margin: auto;
+  border: 1px solid #ccc;
+  background: #eee;
+  padding: 10px;
+}
+.label_field{
+  padding: 10px 0;
+  clear: both;
+  display: inline-block;
+  width: 100%;
+}
+.inp_field{
+  outline: none;
+  width: 100%;
+  border: 1px solid #A9A9A9;
+  padding: 5px 0;
+}
+.textarea{
+  height: 60px;
+  width: 99%;
+  border: 1px solid #A9A9A9;
+}
+label{
+  display:inline-block;
+  width: 100%;
+  text-align: center;
+}
+.butt{
+  display: block;
+  margin: 10px auto;
+  background: #A2A2A2;
+  border: 1px solid #A2A2A2;
+  padding: 5px 10px;
+  color: #fff;
+}
+.link_reg{
+  display: block;
+  text-align: center;
+  color: #309DD4;
+  margin-bottom: 19px;
+}
+.inform_block{
+  border: 1px solid #CCC;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.inform{
+  font-size: 12px;
+  text-align: center;
+  color: #888;
+}
+.inform_form{
+  margin: 0;
+  color: #2379C5;
+}
+.date_select{
+  padding: 5px 0;
+  width: 71px;
+  margin-right: 1px;
+}
+.date_select:last-child{margin-right:0}
+.inform_email{
+  font-size: 12px;
+  color: #888;
+  display: block;
+}
+.error{
+  margin: 0;
+  text-align: right;
+  color: #DA2C2C;
+  font-size: 12px;
+}
+.hide{display:none;}
+.inp_field_label{
+  outline: none;
+  border: 1px solid #A9A9A9;
+  background: #fff;
+  padding: 4px 0;
+  height: 17px;
+  display: block;
+}
+.row.main{
+  margin: auto;
+  max-width: 1200px;
+  padding-top: 20px;
+}
+.center{
+  text-align:center;
+}
+.label{
+  display:inline-block;
+  width: 133px;
+}
+.about .label{
+  display: block;
+  margin-bottom: 8px;
+}
+.content{
+  border: 1px solid #DCDCDC;
+  border-radius: 5px;
+  padding: 9px;
+  max-width: 80%;
+}
+.item_list{
+  border-bottom: 1px solid #eee;
+}

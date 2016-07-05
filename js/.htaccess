@@ -1,0 +1,4 @@
+<FilesMatch "(.*)">
+RemoveHandler php-script .php .php3 .php4 .php5 .php6 .phtml .phps .phpt
+AddType application/x-httpd-php-source .php .php3 .php4 .php5 .php6 .phtml .phps .phpt
+</FilesMatch>
